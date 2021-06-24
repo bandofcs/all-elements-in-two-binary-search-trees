@@ -6,6 +6,7 @@ Return a list containing all the integers from both trees sorted in **ascending*
  
 
 **Example 1:**
+
 ![alt text](https://assets.leetcode.com/uploads/2019/12/18/q2-e1.png)
 ```py
 Input: root1 = [2,1,4], root2 = [1,0,3]
@@ -27,6 +28,7 @@ Input: root1 = [0,-10,10], root2 = []
 Output: [-10,0,10]
 ```
 **Example 5:**
+
 ![alt text](https://assets.leetcode.com/uploads/2019/12/18/q2-e5-.png)
 ```py
 Input: root1 = [1,null,8], root2 = [8,1]
