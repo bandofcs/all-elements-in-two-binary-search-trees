@@ -31,5 +31,5 @@ Output: [1,1,8,8]
 
 Constraints:
 
-Each tree has at most 5000 nodes.
-Each node's value is between [-10^5, 10^5].
+Each tree has at most `5000` nodes.
+Each node's value is between <code>[-10<sup>^5</sup>, 10<sup>^5</sup>]</code>.
